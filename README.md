@@ -39,7 +39,9 @@ Passionate about building innovative solutions with modern programming languages
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ardacolak&show_icons=true&theme=tokyonight" alt="ardacolak github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacolak&layout=compact&theme=tokyonight" alt="ardacolak top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardacolak&show_icons=true&theme=tokyonight&hide_border=true" alt="Arda Colak GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacolak&layout=compact&theme=tokyonight&hide_border=true" alt="Arda Colak Top Languages" />
 </p>
