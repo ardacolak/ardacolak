@@ -38,7 +38,8 @@
 <hr>
 <h3>📊 GitHub Stats</h3>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacolak&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardacolak&theme=github_dark" height="150" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardacolak&theme=github_dark" height="150" alt="Most Commit Language">
 </p>
 </td>
 </tr>
