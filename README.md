@@ -1,45 +1,87 @@
-# Hi 👋, I'm Arda Çolak
+<h1 align="center">Hi, I'm Arda Çolak 👋</h1>
 
-### Computer Engineering Student | AI & Mobile App Developer
-Passionate about building innovative solutions with modern programming languages and exploring the depths of Data Science.
+<h3 align="center">Computer Engineer | AI & Computer Vision Engineer</h3>
 
----
+<p align="center">
+I build end-to-end artificial intelligence systems, from dataset preparation and model training
+to real-time inference, backend integration and deployment.
+</p>
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Data Science and AI**
-- 📱 I specialize in **Mobile Development (Kotlin/Android)**
-- ✍️ I regularly write technical articles on [Medium](https://medium.com/@ardacolak55)
-- 💬 Ask me about **Python, Kotlin & Backend Development**
-- 📫 Reach me at: **ardacolak55@hotmail.com**
-
----
-
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/ardaacolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arda Çolak LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@ardacolak55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Arda Çolak Medium" height="30" width="40" /></a>
-<a href="https://instagram.com/ardacolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arda Çolak Instagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ardaacolak">LinkedIn</a> •
+  <a href="https://medium.com/@ardacolak55">Medium</a> •
+  <a href="mailto:ardaacolak3@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-</p>
+## About Me
+
+- 🎓 Computer Engineering graduate from Karabük University, English-taught program.
+- 🤖 Focused on Artificial Intelligence, Machine Learning and Computer Vision.
+- 🎥 Experienced in object detection, pose estimation, multi-object tracking and video processing.
+- 🧠 Worked with YOLO, PyTorch, OpenCV, MediaPipe, Scikit-learn and TensorFlow.
+- ⚙️ Experienced in integrating AI model outputs with FastAPI, REST APIs, Kafka and JSON-based systems.
+- 🐳 Familiar with deployment workflows using Docker, AWS EC2 and NVIDIA Jetson Orin Nano.
+- 📱 Developed and published four mobile applications, gaining end-to-end product development experience.
+- ✍️ I share technical articles about AI, Machine Learning and software development on Medium.
+
+
+## Technical Skills
+
+**AI and Machine Learning**
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `YOLO` `CNN` `LSTM`
+`Random Forest` `Transfer Learning` `LoRA`
+
+**Computer Vision**
+
+`OpenCV` `MediaPipe` `RTMPose` `Object Detection` `Pose Estimation`
+`Multi-Object Tracking` `Video Processing` `RTSP`
+
+**Backend and Deployment**
+
+`FastAPI` `Flask` `REST API` `Kafka` `JSON` `Docker`
+`AWS EC2` `Jetson Orin Nano`
+
+**Data and Tools**
+
+`NumPy` `Pandas` `Matplotlib` `SQL` `Git` `GitHub`
+`Google Colab` `Linux` `MATLAB`
+
+**Mobile and Product Development**
+
+`Kotlin` `Jetpack Compose` `Flutter` `Firebase` `SQLite`
+`Google Play Console`
 
 ---
 
-### 📊 GitHub Stats
+## Achievements
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardacolak&layout=compact&theme=tokyonight" width="300" />
-</p>
+- 🥉 3rd Place — Microsoft Accessible Banking Hackathon, among 260 teams.
+- ✈️ TÜBİTAK 2209-B supported industry research project in collaboration with TUSAŞ.
+- 🌍 Finalist — Sustain-Solve ReEarth'25.
+- 💧 Finalist — Konya Water Hackathon.
+- 📱 Developed and published four mobile applications.
+
+---
+
+## Technical Writing
+
+I write about:
+
+- Machine Learning and Deep Learning
+- Computer Vision
+- Large Language Models
+- AI system development
+- Mobile and product development
+
+📖 [Read my articles on Medium](https://medium.com/@ardacolak55)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/ardaacolak](https://www.linkedin.com/in/ardaacolak)
+- Medium: [medium.com/@ardacolak55](https://medium.com/@ardacolak55)
+- Email: [ardaacolak3@gmail.com](mailto:ardaacolak3@gmail.com)
