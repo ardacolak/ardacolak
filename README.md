@@ -1,10 +1,7 @@
 <table>
 <tr>
-<td width="180" align="center" valign="middle">
-<img src="https://avatars.githubusercontent.com/u/151970315?v=4" width="155" alt="Arda Çolak">
-</td>
-<td valign="middle">
-<h1>Hi, I'm Arda Çolak 👋</h1>
+<td>
+<h1>Hi 👋, I'm Arda Çolak</h1>
 <h3>Computer Engineer | AI & Computer Vision Engineer</h3>
 <p>I develop end-to-end artificial intelligence systems, covering dataset preparation, model training, real-time inference, backend integration and deployment.</p>
 <p>My primary interests include Computer Vision, Machine Learning, real-time video analysis and production-ready AI systems.</p>
@@ -13,25 +10,39 @@
 <a href="https://medium.com/@ardacolak55"><img src="https://img.shields.io/badge/Medium-Technical%20Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:ardaacolak3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+<hr>
+<h3>🚀 About Me</h3>
+<ul>
+<li>🎓 Computer Engineering graduate from Karabük University’s English-taught program.</li>
+<li>🤖 Focused on Artificial Intelligence, Machine Learning and Computer Vision.</li>
+<li>🎥 Experienced in object detection, pose estimation, multi-object tracking and video processing.</li>
+<li>⚙️ Experienced in AI model integration using FastAPI, REST APIs, Kafka and JSON.</li>
+<li>🐳 Familiar with Docker, AWS EC2, Linux and NVIDIA Jetson Orin Nano.</li>
+<li>📱 Developed and published four mobile applications.</li>
+<li>✍️ I write technical articles about AI and software development on Medium.</li>
+</ul>
+<hr>
+<h3>🔗 Connect with Me</h3>
+<p>
+<a href="https://www.linkedin.com/in/ardaacolak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@ardacolak55"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" alt="Medium"></a>
+&nbsp;&nbsp;
+<a href="mailto:ardaacolak3@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="35" height="35" alt="Email"></a>
+</p>
+<hr>
+<h3>🛠 Languages and Tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,aws,git,github,linux,postgres,kotlin,androidstudio,flutter,firebase,sqlite" alt="Languages and Tools">
+</p>
+<hr>
+<h3>📊 GitHub Stats</h3>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacolak&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages">
+</p>
 </td>
 </tr>
 </table>
-
----
-
-## About Me
-
-- 🎓 Computer Engineering graduate from Karabük University’s English-taught program.
-- 🤖 Focused on Artificial Intelligence, Machine Learning and Computer Vision.
-- 🎥 Experienced in object detection, pose estimation, multi-object tracking and video processing.
-- 🧠 Worked with YOLO, PyTorch, TensorFlow, OpenCV, MediaPipe, RTMPose and Scikit-learn.
-- ⚙️ Experienced in integrating AI model outputs with FastAPI, REST APIs, Kafka and JSON-based systems.
-- 🐳 Familiar with Docker, AWS EC2, Linux and NVIDIA Jetson Orin Nano.
-- 📊 Experienced in data preprocessing, feature engineering, model evaluation and error analysis.
-- 📱 Developed and published four mobile applications.
-- ✍️ I write technical articles about Artificial Intelligence and software development on Medium.
-
----
 
 ## Technical Skills
 
@@ -41,11 +52,11 @@
 <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" title="Python">
 <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch" title="PyTorch">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow" title="TensorFlow">
+<img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="Scikit-learn" title="Scikit-learn">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO">
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO">
 <img src="https://img.shields.io/badge/CNN-111827?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN">
 <img src="https://img.shields.io/badge/LSTM-111827?style=for-the-badge&logo=pytorch&logoColor=white" alt="LSTM">
 <img src="https://img.shields.io/badge/Random%20Forest-111827?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest">
@@ -134,7 +145,7 @@
 - Worked with RTSP/IP camera streams and real-time video-processing pipelines.
 - Prepared structured model outputs for backend integration using JSON and Kafka.
 - Explored deployment workflows using Docker, AWS EC2 and NVIDIA Jetson Orin Nano.
-- Collaborated with software, backend and testing teams during development and evaluation processes.
+- Collaborated with software, backend and testing teams throughout development and evaluation processes.
 
 ### Karabük University IT Department
 
